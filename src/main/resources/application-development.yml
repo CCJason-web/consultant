@@ -1,0 +1,8 @@
+# Development-specific configuration properties
+server:
+  port: 8081
+#spring:
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/mydatabase_dev
+#    username: dev-username
+#    password: dev-password

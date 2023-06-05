@@ -1,0 +1,8 @@
+# Production-specific configuration properties
+server:
+  port: 8081
+#spring:
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/mydatabase_prod
+#    username: prod-username
+#    password: prod-password
