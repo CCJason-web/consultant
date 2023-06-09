@@ -1,17 +1,20 @@
 package com.cjt.consultant.model;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import lombok.AllArgsConstructor;
 
 //@Entity
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class LoginRequest {
+public class SignupRequest {
 
     private String username;
     private String password;
+    private String confirmPassword;
+    private String Email;
+    private String Verify;
 
 }
 
