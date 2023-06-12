@@ -13,8 +13,8 @@ public class SignupRequest {
     private String username;
     private String password;
     private String confirmPassword;
-    private String Email;
-    private String Verify;
+    private String email;
+    private String verificationCode;
 
 }
 
