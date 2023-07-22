@@ -1,7 +1,7 @@
 package com.cjt.consultant.controller;
 
-import com.cjt.consultant.model.Branches;
-import com.cjt.consultant.repository.BranchRepository;
+//import com.cjt.consultant.model.Branches;
+//import com.cjt.consultant.repository.BranchRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
